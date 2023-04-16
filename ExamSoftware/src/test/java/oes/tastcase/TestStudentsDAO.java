@@ -42,4 +42,10 @@ public class TestStudentsDAO
 		 
 		 assertTrue(studentList != null);
 	}
+	
+	@Test
+	public void testUpdateRecord()
+	{
+		
+	}
 }
